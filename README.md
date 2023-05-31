@@ -12,4 +12,5 @@ Paste of osriris but delete some features and make its only like skinchanger
 + Configs
 + Skychanger 
 + Misc (Bomb timer and more)
++ And More and more...
 ```
